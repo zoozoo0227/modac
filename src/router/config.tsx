@@ -1,6 +1,6 @@
 
 // import { RouteObject } from 'react-router-dom';
-import { RouteObject } from 'react-router';
+// import { RouteObject } from 'react-router';
 import Home from '../pages/home/page';
 import Nearby from '../pages/nearby/page';
 import Community from '../pages/community/page';
